@@ -7,3 +7,5 @@ Now, I'm starting the processes, including:
 2)  Starting and managing NEW branches.
 3)  Changing a file within those branches, and then using "commit" to commit these changes to Github.
 4)  Opening and merging a PULL REQUEST
+
+So useful was this exercise, I did it twice!
